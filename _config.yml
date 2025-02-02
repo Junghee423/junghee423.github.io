@@ -54,7 +54,7 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 
-
+remote_theme: samarsault/plainwhite-jekyll
 theme: plainwhite
 plainwhite:
   name: Junghee Lee
